@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[oki:home|Door43 (oki)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-oki|d43-oki repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-oki/archive/master.zip|d43-oki.zip]]
+
+**Recent Changes**
+{{changes>ns = oki}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/oki|Ethnologue data]]
+
